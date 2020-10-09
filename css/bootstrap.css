@@ -5943,7 +5943,7 @@ button.close {
   align-items: center;
   -ms-flex-pack: center;
   justify-content: center;
-  width: 15%;
+  width: 5%;
   color: #fff;
   text-align: center;
   opacity: 0.5;
@@ -5988,14 +5988,14 @@ button.close {
   right: 0;
   bottom: 10px;
   left: 0;
-  z-index: 15;
+  z-index: 5;
   display: -ms-flexbox;
   display: flex;
   -ms-flex-pack: center;
   justify-content: center;
   padding-left: 0;
-  margin-right: 15%;
-  margin-left: 15%;
+  margin-right: 5%;
+  margin-left: 5%;
   list-style: none;
 }
 
@@ -6045,7 +6045,7 @@ button.close {
   padding-top: 20px;
   padding-bottom: 20px;
   color: #fff;
-  text-align: center;
+  text-align: left;
 }
 
 .align-baseline {
